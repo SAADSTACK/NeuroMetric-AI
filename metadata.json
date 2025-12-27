@@ -1,0 +1,5 @@
+{
+  "name": "NeuroMetric AI Assessment",
+  "description": "A production-grade, AI-powered mental health assessment platform replacing legacy systems. Features clinically-patterned consistency checks, Gemini 1.5 interpretations, and secure patient data management.",
+  "requestFramePermissions": []
+}

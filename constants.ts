@@ -70,7 +70,7 @@ export const CONSISTENCY_PATTERNS: ConsistencyPattern[] = [
     { name: "self_esteem_consistency", pairs: [[31, 41], [32, 42], [37, 47]] }
 ];
 
-export const TIME_LIMIT_SECONDS = 600; // 10 minutes
+export const TIME_LIMIT_SECONDS = 360; // 6 minutes
 
 export const SCALE = {
     1: "Strongly Disagree",
